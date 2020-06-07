@@ -1,6 +1,6 @@
 # Neural networks
 
-For an explanation of neural networks, see [this page](http://carlosgmartin.com/neural.pdf).
+Please see the accompanying writeup [here](https://www.lucasschuermann.com/writing/intro-to-neural-networks).
 
 Todo:
 * Add regularization
