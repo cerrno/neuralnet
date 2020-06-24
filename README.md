@@ -9,3 +9,6 @@ Todo:
 * Adaptive growing and pruning
 * Convolutional neural network (pooling)
 * Recurrent neural network
+
+## License
+[MIT](https://lucasschuermann.com/license.txt)
